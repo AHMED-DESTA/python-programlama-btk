@@ -1,0 +1,24 @@
+[
+    {
+    "id": 1,
+    "product_name": "iphone 15",
+    "price": 90000,
+    "catagory": "telefon",
+    "is_published": true
+},
+
+{
+    "id": 2,
+    "product_name": "iphone17",
+    "price": 10000,
+    "catagory": "telefon",
+    "is_published": true
+},
+{
+    "id": 3,
+    "product_name": "mac book 6",
+    "price": 90000,
+    "catagory": "telefon",
+    "is_published": true
+}
+]
